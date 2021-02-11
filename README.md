@@ -1,4 +1,4 @@
-# MyProjects
+# My Projects
 
 This repository includes the main projects I have developed:
 
