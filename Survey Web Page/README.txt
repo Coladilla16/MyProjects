@@ -3,10 +3,7 @@
 We have created a simple survey web page using flask and different simple
 methods obtained from the internet.
 
-Functionalities: 
-
-(-) Mandatory
-(***) Extra
+Functionalities:
 
 - User account management
 - Survey creation and removal
@@ -26,7 +23,3 @@ the following web page:
 https://materializecss.com/
 
 
-#AUTHORS OF THE PROJECT
-
-Pablo Yuste Ramos -------- 100406674
-Gonzalo Tomas Garcinuño -- 100406615
